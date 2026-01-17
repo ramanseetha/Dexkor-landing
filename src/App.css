@@ -1,0 +1,22 @@
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'poppins'!important;
+    letter-spacing: -1px;
+}
+p {
+    font-family: 'poppins' !important;
+}
+@font-face {
+    font-family: 'Kanit-bold';
+    src: url('../src/Kanit/Kanit/Kanit-Bold.ttf') format('truetype');
+}
+
+.byer{
+    font-family: 'Kanit-bold' !important;
+}
+@media (max-width: 768px) {
+  .mobile-center {
+    display: block !important;
+    justify-content: center !important;
+  }
+}
